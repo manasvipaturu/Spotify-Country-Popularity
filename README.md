@@ -20,7 +20,7 @@ To replicate the analysis, follow these steps:
 1. **Prerequisites**: Ensure you have Python (3.6 or higher) installed on your system.
 
 2. **Install Required Libraries**: Install the necessary Python libraries using pip:
-   pip install pandas matplotlib seaborn
+   `pip install pandas matplotlib seaborn`
 
 
 3. **Download the Dataset**: Download the 'universal_top_spotify_songs.csv' dataset from the [Kaggle Dataset](link-to-kaggle-dataset) and place it in the same directory as `music_analysis.py`.
