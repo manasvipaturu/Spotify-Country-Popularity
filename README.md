@@ -1,6 +1,6 @@
 # Music Preferences Analysis
 
-This project aims to analyze and compare music preferences in different countries using a dataset of top Spotify songs in 73 countries. The dataset is sourced from Kaggle and contains information about daily top songs, their features, and the countries they are popular in.
+This project aims to analyze and compare music preferences in different countries using a dataset of top Spotify songs in 73 countries. Comparing the top songs in different countries helps identify cultural music preferences. The dataset is sourced from Kaggle and contains information about daily top songs, their features, and the countries they are popular in.
 
 ## Dataset Information
 
