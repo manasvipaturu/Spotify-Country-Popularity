@@ -17,7 +17,7 @@ for country, group in grouped_data:
 
 #plot 
 plt.xlabel('Popularity')
-plt.ylabel('Density')
+plt.ylabel('Song Distribution')
 plt.title('Popularity Distribution of Top Songs in Different Countries')
 plt.legend()
 plt.show()
