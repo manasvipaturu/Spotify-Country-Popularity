@@ -6,7 +6,7 @@ I am using Kernel Density Estimation (KDE) plots to compare the popularity of to
 
 1. X-Axis represenatnst poplarity of songs, which is a metric that quantifies how well-recieved or frequently the song is streamed, so higher values on the x-axis represent more popularity. 
 
-2. Y-Axis represents the song distribution which means it shows how songs are typcally distributed across the different levels of popularity in the countries. In other words, the y-axis is indivating jow many songs fall within a particular range of popularity on the x-axis. A higher point on the curve means more songs have that level of popularity. 
+2. Y-Axis represents the song distribution which means it shows how songs are typcally distributed across the different levels of popularity in the countries. In other words, the y-axis is indicating how many songs fall within a particular range of popularity on the x-axis. A higher point on the curve means more songs have that level of popularity. 
 
 `Here's the relationship between the x and y axes:`
 
